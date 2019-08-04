@@ -1,6 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/encodings.xml
-.idea/misc.xml
-.idea/workspace.xml
+.idea/
 HELP.md
 target/
